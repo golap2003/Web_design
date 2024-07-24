@@ -1,0 +1,87 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> GCM </title>
+	<link href="img/logo.png" rel="icon" type="image/icon type">
+    <link href="nav.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Slab&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="about.css">
+<script src="about.js" type="text/javascript"></script>
+
+ <script type="text/javascript">
+$(document).ready(function(){
+	$("#about-2 .answer").hide();
+	$("#about-2 .question").click(function(){
+		$("#about-2 .answer").slideToggle(1000);
+		});
+});
+</script>
+
+</head>
+<body>
+	<nav>
+	<input id="nav-toggle" type="checkbox">
+	<div class="logo"><img src = "img/GCM creative.jpg" width="100px"></div>
+	<ul class="links">
+		<li><a href="index.html">Home</a></li>
+		<li><a href="About.html">About</a></li>
+		<li><a href="Contact.html">Contact</a></li>
+		<li><a href="Services.html">Services</a></li>
+	</ul>
+	<label for="nav-toggle" class="icon-burger">
+		<div class="line"></div>
+		<div class="line"></div>
+		<div class="line"></div>
+	</label>
+    </nav>
+	<div class="container"></div>
+
+ <section id="ABOUT">
+     <div class="about-1">
+         <h1> About Us </h1>
+     </div>
+     <div id="about-2">
+         <div class="about-item">
+		   <div class="question">
+             <i class="fa fa-book"></i>
+             <h3>WHO WE ARE</h3>
+             <hr>
+		 </div>
+		 <div class="answer">
+             <p>We are a passionate and experienced team across all facets of the aesthetic & wellbeing industry – leveraging our knowledge & time to always go that extra mile for our clients.
+			 </p>
+		 </div>
+         </div>
+         <div class="about-item">
+		 <div class="question">
+             <i class="fa fa-globe"></i>
+             <h3>OUR VISION</h3>
+             <hr>
+	   	 </div>	
+		 <div class="answer">
+             <p>We believe in doing everything we can to support the growth of our partners business through a progressive and integrated approach which is both creative yet commercial.
+			 </p>
+		 </div>	 
+         </div>
+         <div class="about-item">
+		 <div class="question">
+             <i class="fa fa-pencil"></i>
+             <h3>WHAT WE DO</h3>
+             <hr>
+		 </div>
+		 <div class="answer">
+             <p>We provide results driven offerings & business solutions for our partners to support them in enhancing their patient outcomes & client experiences at every point of their journey.
+			 </p>
+		 </div>
+         </div>
+     </div>   
+ </section>
+<footer class="text-center">
+    <p>Copyright @ Golap</p>
+</footer>
+</body>
+</html>
