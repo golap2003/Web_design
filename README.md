@@ -3,6 +3,7 @@
 Developed a responsive website using HTML, CSS, and JavaScript. The site includes interactive elements such as a contact form and a dynamic gallery.
 
 GitHub Repository: https://github.com/your-username/my-website
+
 Live Demo: https://your-username.github.io/my-website/
 
 ![Screenshot_22-7-2024_214142_](https://github.com/user-attachments/assets/e1659756-0564-4dbe-b8d4-ce17eaf7ee73)
