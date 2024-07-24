@@ -2,9 +2,7 @@
 
 Developed a responsive website using HTML, CSS, and JavaScript. The site includes interactive elements such as a contact form and a dynamic gallery.
 
-GitHub Repository: https://github.com/your-username/my-website
-
-Live Demo: https://your-username.github.io/my-website/
+GitHub Repository: https://github.com/golap2003/golap2003.github.io
 
 ![Screenshot_22-7-2024_214142_](https://github.com/user-attachments/assets/e1659756-0564-4dbe-b8d4-ce17eaf7ee73)
 ![Screenshot_22-7-2024_21447_](https://github.com/user-attachments/assets/8767da60-79f3-4869-8c60-3c3a4e994104)
